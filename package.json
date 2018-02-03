@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/anghel7/mysqlconect/issues"
   },
-  "homepage": "https://github.com/anghel7/mysqlconect#readme"
+  "homepage": "https://github.com/anghel7/mysqlconect#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
